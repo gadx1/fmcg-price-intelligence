@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# DuckDB scratch (the Parquet fact table IS committed; local db files are not)
+*.duckdb
+*.duckdb.wal
+
+# OS
+.DS_Store
+
+# Keep data/ and reports/cube.json tracked — they are the deliverable history.

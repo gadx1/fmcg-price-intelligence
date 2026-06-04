@@ -1,0 +1,247 @@
+{
+  "latest": [
+    {
+      "brand": "Coca-Cola",
+      "variant": "Diet Coke",
+      "pack": "2L",
+      "container": "PET",
+      "sugar_class": "diet",
+      "base_price": 3.85,
+      "unit_price": 1.93,
+      "unit_price_basis": "litre",
+      "deposit": 0.25,
+      "clubcard_price_text": null,
+      "scraped_at": "2026-06-04T08:00:00+00:00"
+    },
+    {
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "1.75L",
+      "container": "PET",
+      "sugar_class": "full",
+      "base_price": 4.1,
+      "unit_price": 2.335,
+      "unit_price_basis": "litre",
+      "deposit": 0.25,
+      "clubcard_price_text": null,
+      "scraped_at": "2026-06-04T08:00:00+00:00"
+    },
+    {
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "2L",
+      "container": "PET",
+      "sugar_class": "full",
+      "base_price": 4.3,
+      "unit_price": 2.155,
+      "unit_price_basis": "litre",
+      "deposit": 0.25,
+      "clubcard_price_text": "2 for €6 Clubcard",
+      "scraped_at": "2026-06-04T08:00:00+00:00"
+    },
+    {
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "1.75L",
+      "container": "PET",
+      "sugar_class": "zero",
+      "base_price": 3.65,
+      "unit_price": 2.09,
+      "unit_price_basis": "litre",
+      "deposit": 0.25,
+      "clubcard_price_text": null,
+      "scraped_at": "2026-06-04T08:00:00+00:00"
+    },
+    {
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "2L",
+      "container": "PET",
+      "sugar_class": "zero",
+      "base_price": 3.85,
+      "unit_price": 1.93,
+      "unit_price_basis": "litre",
+      "deposit": 0.25,
+      "clubcard_price_text": null,
+      "scraped_at": "2026-06-04T08:00:00+00:00"
+    }
+  ],
+  "sugar_tax_spread": [
+    {
+      "pack": "1.75L",
+      "full_unit": 2.335,
+      "nosugar_unit": 2.09,
+      "spread_per_unit": 0.245,
+      "spread_pct": 11.7
+    },
+    {
+      "pack": "2L",
+      "full_unit": 2.155,
+      "nosugar_unit": 1.93,
+      "spread_per_unit": 0.225,
+      "spread_pct": 11.7
+    }
+  ],
+  "trend": [
+    {
+      "date": 1780272000000,
+      "brand": "Coca-Cola",
+      "variant": "Diet Coke",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780272000000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "1.75L",
+      "base_price": 3.95,
+      "unit_price": 2.26
+    },
+    {
+      "date": 1780272000000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "2L",
+      "base_price": 4.15,
+      "unit_price": 2.08
+    },
+    {
+      "date": 1780272000000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "1.75L",
+      "base_price": 3.65,
+      "unit_price": 2.09
+    },
+    {
+      "date": 1780272000000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780358400000,
+      "brand": "Coca-Cola",
+      "variant": "Diet Coke",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780358400000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "1.75L",
+      "base_price": 4.0,
+      "unit_price": 2.285
+    },
+    {
+      "date": 1780358400000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "2L",
+      "base_price": 4.2,
+      "unit_price": 2.105
+    },
+    {
+      "date": 1780358400000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "1.75L",
+      "base_price": 3.65,
+      "unit_price": 2.09
+    },
+    {
+      "date": 1780358400000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780444800000,
+      "brand": "Coca-Cola",
+      "variant": "Diet Coke",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780444800000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "1.75L",
+      "base_price": 4.05,
+      "unit_price": 2.31
+    },
+    {
+      "date": 1780444800000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "2L",
+      "base_price": 4.25,
+      "unit_price": 2.13
+    },
+    {
+      "date": 1780444800000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "1.75L",
+      "base_price": 3.65,
+      "unit_price": 2.09
+    },
+    {
+      "date": 1780444800000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780531200000,
+      "brand": "Coca-Cola",
+      "variant": "Diet Coke",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    },
+    {
+      "date": 1780531200000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "1.75L",
+      "base_price": 4.1,
+      "unit_price": 2.335
+    },
+    {
+      "date": 1780531200000,
+      "brand": "Coca-Cola",
+      "variant": "Original",
+      "pack": "2L",
+      "base_price": 4.3,
+      "unit_price": 2.155
+    },
+    {
+      "date": 1780531200000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "1.75L",
+      "base_price": 3.65,
+      "unit_price": 2.09
+    },
+    {
+      "date": 1780531200000,
+      "brand": "Coca-Cola",
+      "variant": "Zero Sugar",
+      "pack": "2L",
+      "base_price": 3.85,
+      "unit_price": 1.93
+    }
+  ]
+}
